@@ -9,12 +9,7 @@ Select * From PortfolioProjects..NashvilleHousing
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Standardize Date Format
-
---Update NashvilleHousing
---SET SaleDate = CONVERT(Date,SaleDate)
-
--- If it doesn't Update properly
+-- Standardise Date Format
 
 IF NOT EXISTS (
   SELECT
