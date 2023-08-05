@@ -8,7 +8,7 @@ In the `SQL` folder, you'll find various SQL projects that demonstrate my profic
 
 ## Tableau Visualizations
 
-The `Tableau` folder contains resource files related to Tableau visualizations I have created. You can find Tableau workbooks that showcase my ability to transform raw data into interactive and informative visualisations at my Tableau public page. Please refer to the README files in each directory for specific details about the visualizations and the data they represent.
+The `Tableau` folder contains resource files related to Tableau visualisations I have created. You can find Tableau workbooks that showcase my ability to transform raw data into interactive and informative visualisations at my Tableau public page. Please refer to the README files in each directory for specific details about the visualisations and the data they represent.
 
 ## Large-Scale Data Science Projects
 
