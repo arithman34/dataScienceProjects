@@ -202,3 +202,6 @@ order by percentageContribution desc
 --understanding our top customers, monitoring sales and profit trends, optimising product offerings, and focusing on revenue-generating 
 --regions and products, we can streamline operations and enhance overall business performance. Embracing these insights will undoubtedly 
 --contribute to our growth and success in the market.
+
+-- Tableau data visualisation can be found at the link below:
+--https://public.tableau.com/app/profile/arif.othman/viz/SuperstoreDashboard_16909170279860/Dashboard1
